@@ -1,0 +1,5 @@
+{
+  "name": "TextExtract Pro",
+  "description": "A professional AI-powered OCR application featuring a credit-based usage system and high-accuracy text extraction using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
